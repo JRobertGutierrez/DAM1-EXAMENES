@@ -3,7 +3,12 @@ package examen_Eval1_Bingo;
 import java.util.Arrays;
 
 public class Jugador {
-
+	/**
+	 * Juego de Bingo - Clase Jugador.
+	 *
+	 * @author Robert Gutiérrez
+	 * @version 1.0
+	 */
 	private String nombre, alias;
 	private int boleto[];
 

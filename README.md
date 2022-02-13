@@ -1,7 +1,10 @@
-# DAM1-GES_PARK_AERO
-Gestión Aparcamiento Aeropuerto
+# DAM1-EXAMENES
+Evaluación 1 -> Juego de Bingo
+Evaluación 2 -> Gestión Aparcamiento Aeropuerto
 
-* Abre los archivos PDF (DAM1-GES_PARK_AERO\GestionParkingAeropuerto\docs\\*.pdf) para ver la documentación sobre la aplicación.
+
+* Abre los archivos PDF (DAM1-EXAMENES\Examenes\docs\\*.pdf) para ver la documentación sobre la aplicación.
+* Examenes de las 3 evaluaciones del módulo DAM1
 * IDE Eclipse
 
 * Proyectos 2018-2019

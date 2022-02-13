@@ -1,7 +1,12 @@
 package examen_Eval1_Bingo;
 
 public class Juego {
-
+	/**
+	 * Juego de Bingo - Clase Juego.
+	 *
+	 * @author Robert Gutiérrez
+	 * @version 1.0
+	 */
 	private int ganador, numero;
 	private boolean fin = false;
 	private Jugador j1, j2, j3;
