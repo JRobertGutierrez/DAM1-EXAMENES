@@ -1,0 +1,3 @@
+Usuario  || Clave    || DNI      || Nombre   || Apellidos   || Tipo Musica
+--------------------------------------------------------------------------
+robert   	robert	22222222K   Robert		Gutiérrez			Heavy metal
