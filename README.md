@@ -3,7 +3,7 @@ Evaluación 1 -> Juego de Bingo
 
 Evaluación 2 -> Gestión Aparcamiento Aeropuerto
 
-Evaluación 3 -> Lista de reproducción de música
+Evaluación 3 -> Lista de Reproducción de Música
 
 Pendientes   -> Gestión Pagos Proveedores
 
