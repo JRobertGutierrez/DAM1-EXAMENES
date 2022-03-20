@@ -1,0 +1,5 @@
+codigo;cif;nombre;tipo;dirección;teléfono;codigo_postal;retencion;persona_contacto;email;personal
+1;A27317510;Combustibles El Norte, S.A.;suministro;C/ La Playa, 8;944213321;48007;15;Jacinto Gómez Urquijo;jacintogu@gmail.com;
+2;B04132817;Reformas La Maceta, S.L.;subcontrata;Avda. Juan Ortiz, 45;976854658;50002;;Amador Rivas Cata;amadorrc@gmail.com;8
+3;A33719303;Gym Las Pesas, S.A.;subcontrata;C/ La fuerza, 87;927542132;10003;;Romina Jiménez del Oso;rominajo@gmail.com;2
+4;E02656858;Cia. Eléctrica La Veloz, S.A.;suministro;C/ La corriente, 76;963252541;46002;18;Joaquín Lucas Prat;joaquinlp@gmail.com;
